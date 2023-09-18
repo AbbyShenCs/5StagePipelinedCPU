@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Nov 23 16:09:19 2021
+# Process ID: 8388
+# Current directory: D:/vivadoProject/HFUT-exp/HFUT-exp.sim/sim_1/behav/xsim
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16456 D:\vivadoProject\HFUT-exp\HFUT-exp.sim\sim_1\behav\xsim\MIPS_TB_behav.wdb
+# Log file: D:/vivadoProject/HFUT-exp/HFUT-exp.sim/sim_1/behav/xsim/vivado.log
+# Journal file: D:/vivadoProject/HFUT-exp/HFUT-exp.sim/sim_1/behav/xsim\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_wave_database {D:\vivadoProject\HFUT-exp\HFUT-exp.sim\sim_1\behav\xsim\MIPS_TB_behav.wdb}
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/Sofware/vivado/Vivado/2019.2/data/ip'.
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Nov 23 16:09:39 2021...

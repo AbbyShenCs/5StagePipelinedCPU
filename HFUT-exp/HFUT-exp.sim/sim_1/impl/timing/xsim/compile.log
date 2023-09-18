@@ -1,0 +1,49 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.sim/sim_1/impl/timing/xsim/MIPS_TB_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk500hz
+INFO: [VRFC 10-311] analyzing module display_data
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/BECtrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BECtrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/Comp.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Comp
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/Ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Ctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/DM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DM_4k
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/DMExt.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DMExt
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/Ext.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Ext
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/Hazard.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Hazard
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/IM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IM_2k
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/MD.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MD
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/MIPS.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MIPS
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/MUX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX2
+INFO: [VRFC 10-311] analyzing module MUX3
+INFO: [VRFC 10-311] analyzing module MUX4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/NPC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module NPC
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/RegD.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegD
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/RegE.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegE
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/RegFile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegFile
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/RegM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/RegW.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegW
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/StartCtrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StartCtrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.srcs/sim_1/imports/code/MIPS_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MIPS_TB

@@ -1,0 +1,27 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"MIPS_TB_func_synth.v" \
+"../../../../../HFUT-exp.srcs/sources_1/imports/code/ALU.v" \
+"../../../../../HFUT-exp.srcs/sources_1/imports/code/BECtrl.v" \
+"../../../../../HFUT-exp.srcs/sources_1/imports/code/Comp.v" \
+"../../../../../HFUT-exp.srcs/sources_1/imports/code/Ctrl.v" \
+"../../../../../HFUT-exp.srcs/sources_1/imports/code/DM.v" \
+"../../../../../HFUT-exp.srcs/sources_1/imports/code/DMExt.v" \
+"../../../../../HFUT-exp.srcs/sources_1/imports/code/Ext.v" \
+"../../../../../HFUT-exp.srcs/sources_1/imports/code/Hazard.v" \
+"../../../../../HFUT-exp.srcs/sources_1/imports/code/IM.v" \
+"../../../../../HFUT-exp.srcs/sources_1/imports/code/MD.v" \
+"../../../../../HFUT-exp.srcs/sources_1/imports/code/MIPS.v" \
+"../../../../../HFUT-exp.srcs/sources_1/imports/code/MUX.v" \
+"../../../../../HFUT-exp.srcs/sources_1/imports/code/NPC.v" \
+"../../../../../HFUT-exp.srcs/sources_1/imports/code/PC.v" \
+"../../../../../HFUT-exp.srcs/sources_1/imports/code/RegD.v" \
+"../../../../../HFUT-exp.srcs/sources_1/imports/code/RegE.v" \
+"../../../../../HFUT-exp.srcs/sources_1/imports/code/RegFile.v" \
+"../../../../../HFUT-exp.srcs/sources_1/imports/code/RegM.v" \
+"../../../../../HFUT-exp.srcs/sources_1/imports/code/RegW.v" \
+"../../../../../HFUT-exp.srcs/sources_1/imports/code/StartCtrl.v" \
+"../../../../../HFUT-exp.srcs/sim_1/imports/code/MIPS_TB.v" \
+
+# Do not sort compile order
+nosort

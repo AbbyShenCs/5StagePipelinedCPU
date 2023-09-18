@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Thu Jul  8 01:09:47 2021
+# Process ID: 15856
+# Current directory: D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.sim/sim_1/impl/timing/xsim
+# Command line: wbtcv.exe -mode batch -source D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.sim/sim_1/impl/timing/xsim/xsim.dir/MIPS_TB_time_impl/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.sim/sim_1/impl/timing/xsim/webtalk.log
+# Journal file: D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.sim/sim_1/impl/timing/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.sim/sim_1/impl/timing/xsim/xsim.dir/MIPS_TB_time_impl/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-186] 'D:/coding/VivadoWorkspace/HFUT-exp/HFUT-exp.sim/sim_1/impl/timing/xsim/xsim.dir/MIPS_TB_time_impl/webtalk/usage_statistics_ext_xsim.xml' has been successfully sent to Xilinx on Thu Jul  8 01:09:50 2021. For additional details about this file, please refer to the WebTalk help file at D:/ProgramFiles/Xilinx/Vivado/2019.2/doc/webtalk_introduction.html.
+INFO: [Common 17-206] Exiting Webtalk at Thu Jul  8 01:09:50 2021...

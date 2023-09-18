@@ -1,0 +1,82 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadoProject/HFUT-exp/HFUT-exp.sim/sim_1/synth/func/xsim/MIPS_TB_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DM_4k
+INFO: [VRFC 10-311] analyzing module Ext
+INFO: [VRFC 10-311] analyzing module MD
+INFO: [VRFC 10-311] analyzing module MIPS
+INFO: [VRFC 10-311] analyzing module MUX2
+INFO: [VRFC 10-311] analyzing module MUX2_3
+INFO: [VRFC 10-311] analyzing module MUX2_4
+INFO: [VRFC 10-311] analyzing module MUX2_5
+INFO: [VRFC 10-311] analyzing module MUX2__parameterized0
+INFO: [VRFC 10-311] analyzing module MUX3
+INFO: [VRFC 10-311] analyzing module MUX3_0
+INFO: [VRFC 10-311] analyzing module MUX3_2
+INFO: [VRFC 10-311] analyzing module MUX4
+INFO: [VRFC 10-311] analyzing module MUX4_1
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-311] analyzing module RegD
+INFO: [VRFC 10-311] analyzing module RegE
+INFO: [VRFC 10-311] analyzing module RegFile
+INFO: [VRFC 10-311] analyzing module RegM
+INFO: [VRFC 10-311] analyzing module RegW
+INFO: [VRFC 10-311] analyzing module StartCtrl
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/BECtrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BECtrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/Comp.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Comp
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/Ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Ctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/DM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DM_4k
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'DM_4k' [D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/DM.v:8]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/DMExt.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DMExt
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/Ext.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Ext
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'Ext' [D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/Ext.v:1]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/Hazard.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Hazard
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/IM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IM_2k
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/MD.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MD
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'MD' [D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/MD.v:1]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/MIPS.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MIPS
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'MIPS' [D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/MIPS.v:1]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/MUX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX2
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'MUX2' [D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/MUX.v:1]
+INFO: [VRFC 10-311] analyzing module MUX3
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'MUX3' [D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/MUX.v:10]
+INFO: [VRFC 10-311] analyzing module MUX4
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'MUX4' [D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/MUX.v:19]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/NPC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module NPC
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'PC' [D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/PC.v:1]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/RegD.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegD
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'RegD' [D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/RegD.v:1]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/RegE.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegE
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'RegE' [D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/RegE.v:1]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/RegFile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegFile
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'RegFile' [D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/RegFile.v:1]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/RegM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegM
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'RegM' [D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/RegM.v:1]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/RegW.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegW
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'RegW' [D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/RegW.v:1]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/StartCtrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StartCtrl
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'StartCtrl' [D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sources_1/imports/code/StartCtrl.v:1]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadoProject/HFUT-exp/HFUT-exp.srcs/sim_1/imports/code/MIPS_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MIPS_TB

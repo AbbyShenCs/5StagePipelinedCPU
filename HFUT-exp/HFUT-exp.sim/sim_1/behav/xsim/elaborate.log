@@ -1,0 +1,37 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: E:/Sofware/vivado/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 279776a3782b4e3fa3296195bbee6a43 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot MIPS_TB_behav xil_defaultlib.MIPS_TB xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "D:/vivadoProject/HFUT-exp/HFUT-exp.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Hazard
+Compiling module xil_defaultlib.PC
+Compiling module xil_defaultlib.IM_2k
+Compiling module xil_defaultlib.RegD
+Compiling module xil_defaultlib.Ctrl
+Compiling module xil_defaultlib.RegFile
+Compiling module xil_defaultlib.MUX4
+Compiling module xil_defaultlib.MUX3
+Compiling module xil_defaultlib.Comp
+Compiling module xil_defaultlib.Ext
+Compiling module xil_defaultlib.NPC
+Compiling module xil_defaultlib.StartCtrl
+Compiling module xil_defaultlib.RegE
+Compiling module xil_defaultlib.MUX2
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.MD
+Compiling module xil_defaultlib.MUX2(WIDTH=5)
+Compiling module xil_defaultlib.RegM
+Compiling module xil_defaultlib.BECtrl
+Compiling module xil_defaultlib.DM_4k
+Compiling module xil_defaultlib.RegW
+Compiling module xil_defaultlib.DMExt
+Compiling module xil_defaultlib.MIPS
+Compiling module xil_defaultlib.MIPS_TB
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot MIPS_TB_behav

@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../HFUT-exp.srcs/sources_1/imports/new/clk500hz.v" \
+"../../../../HFUT-exp.srcs/sources_1/imports/new/decoder38.v" \
+"../../../../HFUT-exp.srcs/sources_1/new/display_data.v" \
+"../../../../HFUT-exp.srcs/sim_1/new/display_sim.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
